@@ -33,3 +33,15 @@ The next div has a class of "form" and contains an h1 tag with a class of "headi
 The form also contains three input tags with classes of "name", "email" and "password" respectively. These are the fields that the user will enter their details into. There is also a button with a class of "submit-btn" to submit the form and a link to the login page. 
 
 Finally, at the bottom of the page, there is a script tag linking to a js file. This is to handle the form submission as well as any other functionality.
+
+Contact Us.html
+
+The above code is an example of a contact form created using HTML. The contact form is used for visitors to contact the website owner with questions or feedback.
+
+At the beginning of the code, a style tag is used that contains a set of CSS rules. These rules define the styling of the contact form, such as the background color, font, and border styles.
+
+The body of the HTML code contains a heading and a div element with a class of "container". The div element contains a form element which is used to collect the user's input. The form element has an action attribute that specifies which page the form should submit to, and a method attribute that specifies which HTTP method should be used to submit the form.
+
+Inside the form element, there are three input elements, which are used to collect the user's name, email address, and message. There is also a textarea element that is used to collect the user's message.
+
+Finally, there is a submit button that will submit the form when clicked. When the submit button is clicked, an alert will be displayed that says "Your message has been sent!".
