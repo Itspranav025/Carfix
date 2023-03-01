@@ -57,3 +57,6 @@ The next section contains the functions needed to perform the CRUD operations. T
 The last part of the code exports the functions so they can be used in other files. 
 
 Overall, this code provides a set of functions that can be used to perform CRUD operations on a MySQL database.
+
+
+There are two more js files and 3 css file.These are used to make the page attractive.
