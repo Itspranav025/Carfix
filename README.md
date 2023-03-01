@@ -60,3 +60,12 @@ Overall, this code provides a set of functions that can be used to perform CRUD 
 
 
 There are two more js files and 3 css file.These are used to make the page attractive.
+
+output of the code:-
+![Screenshot (200)](https://user-images.githubusercontent.com/88264892/222222398-bb751336-c184-4dc0-90f8-4c5da0361e61.png)
+![Screenshot (201)](https://user-images.githubusercontent.com/88264892/222222529-6bea526d-634d-4745-a380-f2e4c0324b33.png)
+![Screenshot (196)](https://user-images.githubusercontent.com/88264892/222222690-c04026e5-7633-4962-a934-7dd79e54f1d4.png)
+![Screenshot (202)](https://user-images.githubusercontent.com/88264892/222222888-37a0de63-7a7f-4850-8b44-aa19c3720aca.png)
+
+
+
