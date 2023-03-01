@@ -66,6 +66,8 @@ output of the code:-
 ![Screenshot (201)](https://user-images.githubusercontent.com/88264892/222222529-6bea526d-634d-4745-a380-f2e4c0324b33.png)
 ![Screenshot (196)](https://user-images.githubusercontent.com/88264892/222222690-c04026e5-7633-4962-a934-7dd79e54f1d4.png)
 ![Screenshot (202)](https://user-images.githubusercontent.com/88264892/222222888-37a0de63-7a7f-4850-8b44-aa19c3720aca.png)
+![Screenshot (203)](https://user-images.githubusercontent.com/88264892/222223309-968b20d4-4be2-45d6-873e-be0026bdc36b.png)
+![Screenshot (204)](https://user-images.githubusercontent.com/88264892/222223475-1cb3a906-dd05-4e63-a4a3-17879b6f5b29.png)
 
 
 
