@@ -1,5 +1,5 @@
 # Carfix
-This Website is a based in to Solve the issues related to car hardware like Engine,Tiers, Dents etc.
+This Website is a based on Solve the issues related to car hardware like Engine,Tiers, Dents etc.
 
 About the each html file:
 
@@ -45,3 +45,15 @@ The body of the HTML code contains a heading and a div element with a class of "
 Inside the form element, there are three input elements, which are used to collect the user's name, email address, and message. There is also a textarea element that is used to collect the user's message.
 
 Finally, there is a submit button that will submit the form when clicked. When the submit button is clicked, an alert will be displayed that says "Your message has been sent!".
+
+connect.js
+
+The above code is a set of functions used to create, read, update and delete (CRUD) contacts in a MySQL database. The functions are written in JavaScript and use the MySQL Node.js module to communicate with the database. 
+
+The first part of the code sets up the connection information for the database. A connection is established with the createConnection() method, setting the host, user, password and database name in the parameters. The connection is then established by calling the connect() method. 
+
+The next section contains the functions needed to perform the CRUD operations. The createContacts() function takes in the name, email and message of the contact to be created and uses the queryString variable to build a SQL query to insert the data into the contacts table. The readContacts() function uses a queryString to select all the records from the contacts table and console.log() them. The updateContacts() function takes in the name, email, message and id of the contact to be updated and uses the queryString variable to build the SQL UPDATE query. Finally, the deleteContacts() function takes in the id of the contact to be deleted and uses the queryString variable to build the SQL DELETE query. 
+
+The last part of the code exports the functions so they can be used in other files. 
+
+Overall, this code provides a set of functions that can be used to perform CRUD operations on a MySQL database.
